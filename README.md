@@ -1,0 +1,1 @@
+AI Work Assistant with Evaluator that gives feedback to the assistant
